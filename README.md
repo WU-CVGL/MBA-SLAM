@@ -4,7 +4,7 @@
 
 <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/ArXiv-2411.xxxxx-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2411.xxxx)
+[![arXiv](https://img.shields.io/badge/ArXiv-2411.08279-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2411.08279)
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://wangpeng000.github.io/MBA-SLAM/)
 
 ## Overview
