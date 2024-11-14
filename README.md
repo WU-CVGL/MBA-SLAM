@@ -9,8 +9,8 @@
 
 ## Overview
 <p align="center">
-    <!-- <img src="./assets/teaser1.png" alt="Pipeline" style="width:75%; height:auto;"> -->
-    <video autoplay loop controls src="./assets/MBA-SLAM.mp4" muted="true" style="width:75%; height:auto;>
+    <img src="./assets/teaser1.png" alt="Pipeline" style="width:75%; height:auto;">
+    <video autoplay loop controls src="./assets/MBA-SLAM.mp4" muted="true" style="width:75%; height:auto;">
 </p>
 
 <div>
