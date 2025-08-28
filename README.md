@@ -1,6 +1,6 @@
 <h1 align=center font-weight:100> <strong><i>MBA-SLAM:</i></strong> Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation</h1>
 
-<h3 align="center">arXiv 2024</h3>
+<h3 align="center">TPAMI 2025</h3>
 
 <h5 align="center">
 
@@ -22,3 +22,26 @@ Given a sequence of severe motion blurred images and depth, MBA-SLAM can accurat
 
 <div>
 <strong><i>Tracking:</i></strong> Our motion blur-aware tracker directly estimates the camera motion trajectory during the exposure time. <strong><i>Mapping:</i></strong> Our mapper generates virtual sharp images along the camera trajectory.
+
+## Citation
+
+If you find this useful, please consider citing our paper:
+
+```bibtex
+@article{wang2024mbaslam,
+      title     = {MBA-SLAM: MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation},
+      author    = {Wang, Peng and Zhao, Lingzhe and Zhang, Yin and Zhao, Shiyu and Liu, Peidong},
+      journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+      year      = {2025},
+      publisher = {IEEE}
+  }
+
+  or
+
+@article{wang2024mbaslam,
+      title     = {MBA-SLAM: Motion Blur Aware Gaussian Splatting SLAM},
+      author    = {Wang, Peng and Zhao, Lingzhe and Zhang, Yin and Zhao, Shiyu and Liu, Peidong},
+      journal   = {arXiv preprint arXiv:2411.08279},
+      year      = {2024}
+  }
+```
