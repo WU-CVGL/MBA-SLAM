@@ -28,7 +28,7 @@ Given a sequence of severe motion blurred images and depth, MBA-SLAM can accurat
 If you find this useful, please consider citing our paper:
 
 ```bibtex
-@article{wang2024mbaslam,
+@article{wang2025mbaslam,
       title     = {MBA-SLAM: MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation},
       author    = {Wang, Peng and Zhao, Lingzhe and Zhang, Yin and Zhao, Shiyu and Liu, Peidong},
       journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
