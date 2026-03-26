@@ -1,0 +1,9 @@
+inherit_from: configs/MbaVo/mbavo.yaml
+mapping:
+  bound: [[-1.0,5.0],[-4.3,4.3],[-1.0,4.0]]  ### here something wrong
+  marching_cubes_bound: [[-0.5,4.5],[-3.8,3.8],[-0.5,3.5]]
+blur:
+  enable: False
+data:
+  input_folder: Datasets/MBA-VO/archviz3_020
+  output: output/MBA-VO/archviz3_020_org
