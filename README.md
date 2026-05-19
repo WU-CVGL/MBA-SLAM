@@ -39,7 +39,7 @@ Create the Python environment from `environment.yaml`:
 
 ```bash
 conda env create -f environment.yaml
-conda activate eslam
+conda activate mba-slam
 pip install -r requirements.txt
 pip install pypose --no-deps
 ```
@@ -59,12 +59,12 @@ If `cmake --build build -t install` cannot write to `/usr/local`, run that insta
 
 #### Option B: Docker environment
 
-The project Docker setup uses two images. `Dockerfile.dev` builds the base environment and tags it as `eslam-base`; `Dockerfile` then uses `FROM eslam-base` and installs MBA-VO plus the remaining Python requirements.
+The project Docker setup uses two images. `Dockerfile.dev` builds the base environment and tags it as `mba-slam-base`; `Dockerfile` then uses `FROM mba-slam-base` and installs MBA-VO plus the remaining Python requirements.
 
 Build the base image:
 
 ```bash
-docker build -f Dockerfile.dev -t eslam-base .
+docker build -f Dockerfile.dev -t mba-slam-base .
 ```
 
 Build the MBA-SLAM image:

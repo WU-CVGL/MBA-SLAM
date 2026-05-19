@@ -1,4 +1,4 @@
-FROM eslam-base
+FROM mba-slam-base
 
 ADD external/MBA-VO /opt/MBA-VO
 RUN cd /opt/MBA-VO &&\

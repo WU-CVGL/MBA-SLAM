@@ -1,4 +1,4 @@
-name: eslam
+name: mba-slam
 channels:
   - pytorch3d
   - pytorch
