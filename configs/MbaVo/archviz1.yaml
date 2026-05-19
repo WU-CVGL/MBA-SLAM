@@ -6,4 +6,4 @@ blur:
   enable: True
 data:
   input_folder: Datasets/MBA-VO/archviz1
-  output: output/MBA-VO/archviz1_merge_test
+  output: output/MBA-VO/archviz1
